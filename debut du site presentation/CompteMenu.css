@@ -1,4 +1,8 @@
-
+.Logo
+{
+position: absolute;
+right:0;
+}
 
 div#hmenu { 
    margin: 0; 
@@ -18,7 +22,6 @@ div#hmenu ul li {
    margin: 0; 
    padding: 0; 
    display: inline; 
-   font-family: Trebuchet MS
 } 
 
 div#hmenu ul a:link{ 
@@ -58,8 +61,14 @@ div#hmenu ul a:hover{
    background-color: #A4A4A4; 
 }
 
-.Logo
-{
-position: absolute;
-right:0;
+.bouton{
+	text-align: center;
+	padding-top: 3em;
+	padding-bottom: 2em;
+}
+
+.bouton2{
+	text-align: center;
+	padding-top: 3em;
+	padding-bottom: 2em;
 }
